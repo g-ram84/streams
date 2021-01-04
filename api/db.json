@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 3
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 4
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 5
+    },
+    {
+      "title": "My stream",
+      "description": "this is my post",
+      "id": 6
+    }
+  ]
+}
