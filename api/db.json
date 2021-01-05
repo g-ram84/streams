@@ -29,6 +29,12 @@
       "title": "My stream",
       "description": "this is my post",
       "id": 6
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me",
+      "userId": "101149391130609782716",
+      "id": 7
     }
   ]
 }
