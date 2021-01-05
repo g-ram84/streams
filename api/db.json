@@ -3,26 +3,6 @@
     {
       "title": "My stream",
       "description": "This is a great stream",
-      "id": 1
-    },
-    {
-      "title": "My stream",
-      "description": "This is a great stream",
-      "id": 2
-    },
-    {
-      "title": "My stream",
-      "description": "This is a great stream",
-      "id": 3
-    },
-    {
-      "title": "My stream",
-      "description": "This is a great stream",
-      "id": 4
-    },
-    {
-      "title": "My stream",
-      "description": "This is a great stream",
       "id": 5
     },
     {
@@ -35,6 +15,12 @@
       "description": "This was made by me",
       "userId": "101149391130609782716",
       "id": 7
+    },
+    {
+      "title": "Hi",
+      "description": "Hi there",
+      "userId": "101149391130609782716",
+      "id": 8
     }
   ]
 }
